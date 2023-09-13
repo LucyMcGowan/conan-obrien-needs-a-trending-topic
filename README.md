@@ -1,5 +1,7 @@
 # Conan O'Brien needs a trending topic
 
+by: [Lucy D'Agostino McGowan](https://lucymcgowan.com)
+
 On a recent episode of CONAF Sona expressed concern that Conan was dredging up the Richard Gere gerbil rumor. 
 To test this hypothesis we scraped Google Trends data to examine whether there was a noticeable change after his mention. 
 Interestingly, we see don't see an impact! Is this just because it is a podcast? Would mentioning it on his talk show have had an effect? Looks like no! 
