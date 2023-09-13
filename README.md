@@ -10,3 +10,7 @@ We think this is kind of funny. We've written up the results in all their glory 
 * You can find the manuscript here [[link](https://github.com/LucyMcGowan/conan-obrien-needs-a-trending-topic/blob/main/manuscript.pdf)]
 * You can find slides here [[link](https://docs.google.com/presentation/d/1ukhaM5dIkkzgUYM2hmjq7dqso69R2vB7s908waBCIEg/)]
 * You can find a little tutorial on how to deliver the slides here [[link](https://www.youtube.com/watch?v=wFItys5Dqmk)]
+
+Here is a visual summary of the findings.
+
+![](big-picture.png)
